@@ -1,2 +1,25 @@
 # LIS-545-FINAL-PROJECT
-A collection of datasets that contains anonymized U.S. government immigration enforcement records (covering arrests, detainers, detention stays, and detention stints) from SEP 2023 to mid-OCT 2025.  These records originated from the U.S. Immigration and Customs Enforcement (ICE) and were acquired by the Deportation Data Project using FOIA. 
+
+This repository contains the following files: 
+
+    arrests-latest.parquet
+  
+    detainers-latest.parquet
+  
+  LIS 545 Final Report that contains:
+
+    Data and Metadata Profile
+  
+    Repository Profile (for ICPSR)
+  
+    Recommended data citation
+  
+    Long-term preservation considerations
+  
+    Human subject considerations
+  
+    Copyright license suggestion
+  
+  Metadata files (structured according to the DataCite metadata schema)
+
+    Note that both XML files (arrests-latest-datacite.xml and detainers-latest-datacite.xml) were generated using Microsoft CoPilot
