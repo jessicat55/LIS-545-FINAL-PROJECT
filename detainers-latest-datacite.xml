@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+  <identifier identifierType="DOI">10.00000/placeholder-detainers-latest</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Townsend, Jessica L.</creatorName>
+      <givenName>Jessica L.</givenName>
+      <familyName>Townsend</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>ICE Detainers – Latest Extract (detainers-latest.xlsx)</title>
+  </titles>
+  <publisher>Jessica L. Townsend</publisher>
+  <publicationYear>2026</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <subjects>
+    <subject>Immigration detainers</subject>
+    <subject>ICE ERO</subject>
+    <subject>Detention facilities</subject>
+    <subject>United States</subject>
+    <subject>detainer_prepare_date</subject>
+    <subject>facility_state</subject>
+    <subject>facility_aor</subject>
+    <subject>port_of_departure</subject>
+    <subject>departure_country</subject>
+    <subject>departed_date</subject>
+    <subject>case_status</subject>
+    <subject>detainer_prepared_criminality</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataCollector">
+      <contributorName>U.S. Immigration and Customs Enforcement (ICE), Enforcement and Removal Operations (ERO)</contributorName>
+    </contributor>
+  </contributors>
+  <formats>
+    <format>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</format>
+  </formats>
+  <sizes>
+    <size>396,306 rows</size>
+    <size>62 columns</size>
+    <size>81.75 MB (85,720,479 bytes)</size>
+  </sizes>
+  <version>1.0</version>
+  <rightsList>
+    <rights>No license specified. Rights status unknown. Contact the publisher for terms of use.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Tabular dataset of ICE detainers with facility, case status, offense, demographics, and program fields. Representative columns: detainer_prepare_date, facility_state, facility_aor, port_of_departure, departure_country, departed_date, case_status, detainer_prepared_criminality, detention_facility, detention_facility_code, facility_city, detainer_prep_threat_level, gender, citizenship_country, birth_country. File contains 396,306 records and 62 columns.</description>
+  </descriptions>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="LocalFile">detainers-latest.xlsx</alternateIdentifier>
+  </alternateIdentifiers>
+  <language>en</language>
+</resource>
