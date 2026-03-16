@@ -3,15 +3,14 @@
   <identifier identifierType="DOI">10.00000/placeholder-detainers-latest</identifier>
   <creators>
     <creator>
-      <creatorName nameType="Personal">Townsend, Jessica L.</creatorName>
-      <givenName>Jessica L.</givenName>
-      <familyName>Townsend</familyName>
+      <creatorName nameType="Personal">Deportation Data Project</creatorName>
+      <givenName>Deportation Data Project</givenName>
     </creator>
   </creators>
   <titles>
     <title>ICE Detainers – Latest Extract (detainers-latest.xlsx)</title>
   </titles>
-  <publisher>Jessica L. Townsend</publisher>
+  <publisher>Kaggle</publisher>
   <publicationYear>2026</publicationYear>
   <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
   <subjects>
@@ -43,7 +42,7 @@
   </sizes>
   <version>1.0</version>
   <rightsList>
-    <rights>No license specified. Rights status unknown. Contact the publisher for terms of use.</rights>
+    <rights>CC0: Public Domain</rights>
   </rightsList>
   <descriptions>
     <description descriptionType="Abstract">Tabular dataset of ICE detainers with facility, case status, offense, demographics, and program fields. Representative columns: detainer_prepare_date, facility_state, facility_aor, port_of_departure, departure_country, departed_date, case_status, detainer_prepared_criminality, detention_facility, detention_facility_code, facility_city, detainer_prep_threat_level, gender, citizenship_country, birth_country. File contains 396,306 records and 62 columns.</description>
