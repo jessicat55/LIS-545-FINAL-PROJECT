@@ -1,6 +1,6 @@
 # LIS-545-FINAL-PROJECT
 
-This repository contains the following files: 
+This repository contains the following files (other files mentioned in LIS 545 Final Report were too large for GitHub): 
 
     arrests-latest.parquet
   
