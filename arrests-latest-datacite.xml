@@ -3,15 +3,14 @@
   <identifier identifierType="DOI">10.00000/placeholder-arrests-latest</identifier>
   <creators>
     <creator>
-      <creatorName nameType="Personal">Townsend, Jessica L.</creatorName>
-      <givenName>Jessica L.</givenName>
-      <familyName>Townsend</familyName>
+      <creatorName nameType="Personal">Deportation Data Project.</creatorName>
+      <givenName>Deportation Data Project</givenName>
     </creator>
   </creators>
   <titles>
     <title>Administrative Arrests – Latest Extract (arrests-latest.xlsx)</title>
   </titles>
-  <publisher>Jessica L. Townsend</publisher>
+  <publisher>Kaggle</publisher>
   <publicationYear>2026</publicationYear>
   <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
   <subjects>
@@ -41,7 +40,7 @@
   </sizes>
   <version>1.0</version>
   <rightsList>
-    <rights>No license specified. Rights status unknown. Contact the publisher for terms of use.</rights>
+    <rights>CC0: Public Domain.</rights>
   </rightsList>
   <descriptions>
     <description descriptionType="Abstract">Tabular dataset of administrative arrests. Representative columns: apprehension_date, apprehension_state, apprehension_aor, final_program, final_program_group, apprehension_method, apprehension_criminality, case_status, case_category, departed_date, departure_country, final_order_yes_no, final_order_date, birth_year, citizenship_country. File contains 377,067 records and 23 columns.</description>
